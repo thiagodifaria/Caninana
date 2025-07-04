@@ -70,7 +70,7 @@ O nome foi escolhido em homenagem à **Caninana** (*Spilotes pullatus*), uma cob
 ### Frontend (Python Interface)
 - **Python 3.7+**: Linguagem principal da interface
 - **pybind11**: Bindings C++/Python de alta performance
-- **PyQt6**: Framework GUI moderno e responsivo
+- **Tkinter**: Framework GUI moderno e responsivo
 
 ### Algoritmos e Padrões
 - **Aho-Corasick**: Pattern matching multi-string em O(n + m + z)
