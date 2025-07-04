@@ -1,0 +1,4 @@
+C:/Users/thiag/TESTES/Caninana/build/CMakeFiles/caninana_core.dir
+C:/Users/thiag/TESTES/Caninana/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/thiag/TESTES/Caninana/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/thiag/TESTES/Caninana/build/core/CMakeFiles/CaninanaCore.dir

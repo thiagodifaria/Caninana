@@ -1,0 +1,13 @@
+{
+  "cmake.sourceDirectory": "${workspaceFolder}",
+  "cmake.configureSettings": {
+    "CMAKE_TOOLCHAIN_FILE": "C:/vcpkg/scripts/buildsystems/vcpkg.cmake"
+  },
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/ui"
+  ],
+  "files.associations": {
+    "filesystem": "cpp",
+    "vector": "cpp"
+  }
+}

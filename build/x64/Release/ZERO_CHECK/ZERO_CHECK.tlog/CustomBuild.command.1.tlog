@@ -1,0 +1,10 @@
+^C:\USERS\THIAG\TESTES\CANINANA\BUILD\CMAKEFILES\36697E57BE19FB0A2C88AE830B43F2F7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/thiag/TESTES/Caninana -BC:/Users/thiag/TESTES/Caninana/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/thiag/TESTES/Caninana/build/Caninana.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

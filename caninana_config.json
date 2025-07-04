@@ -1,0 +1,14 @@
+{
+  "realtime_protection": true,
+  "scan_downloads": true,
+  "email_protection": true,
+  "scan_sensitivity": "Medium",
+  "scan_archives": true,
+  "scan_timeout": "5",
+  "show_notifications": true,
+  "auto_start": false,
+  "theme": "Light",
+  "cloud_lookup": true,
+  "debug_logging": false,
+  "update_frequency": "Daily"
+}

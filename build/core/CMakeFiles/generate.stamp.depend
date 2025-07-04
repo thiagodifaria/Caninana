@@ -1,0 +1,20 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/SelectLibraryConfigurations.cmake
+C:/Users/thiag/TESTES/Caninana/core/CMakeLists.txt
+C:/vcpkg/installed/x64-windows/share/cpr/cprConfig.cmake
+C:/vcpkg/installed/x64-windows/share/cpr/cprConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/cpr/cprTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/cpr/cprTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/cpr/cprTargets.cmake
+C:/vcpkg/installed/x64-windows/share/curl/CURLConfig.cmake
+C:/vcpkg/installed/x64-windows/share/curl/CURLConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/curl/CURLTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/curl/CURLTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/curl/CURLTargets.cmake
+C:/vcpkg/installed/x64-windows/share/curl/vcpkg-cmake-wrapper.cmake
+C:/vcpkg/installed/x64-windows/share/unofficial-libmagic/unofficial-libmagic-config.cmake
+C:/vcpkg/installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake

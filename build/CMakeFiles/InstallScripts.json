@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/thiag/TESTES/Caninana/build/cmake_install.cmake",
+		"C:/Users/thiag/TESTES/Caninana/build/core/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
