@@ -33,7 +33,7 @@ O nome foi escolhido em homenagem à **Caninana** (*Spilotes pullatus*), uma cob
 - 📝 **Logging de Segurança**: Sistema centralizado e thread-safe de auditoria
 - 🔄 **Atualizador de Assinaturas**: Download e validação automática via HTTP
 - 🐍 **Interface Python**: Bindings elegantes usando pybind11
-- 🎨 **Interface Gráfica**: Dashboard moderno em PyQt6
+- 🎨 **Interface Gráfica**: Dashboard moderno em Tkinter
 
 ### 🔧 Arquitetura Técnica
 
